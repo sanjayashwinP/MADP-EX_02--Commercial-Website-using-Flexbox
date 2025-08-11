@@ -266,7 +266,7 @@ Upload to GitHub Pages for free hosting.
 ```
 style.css
 ```
-/* Global Styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -287,7 +287,7 @@ body {
     line-height: 1.6;
 }
 
-/* Reusable Components */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -471,7 +471,7 @@ h2 {
     background-color: #38bdf8;
 }
 
-/* Contact Page Styles */
+
 .contact-section {
     display: flex;
     flex-wrap: wrap;
@@ -534,7 +534,7 @@ h2 {
     resize: vertical;
 }
 
-/* Footer */
+
 .footer {
     background-color: var(--secondary-color);
     padding: 1.5rem;
@@ -543,7 +543,7 @@ h2 {
 }
 
 
-/* Media Queries for Responsiveness */
+
 @media (max-width: 768px) {
     .header {
         flex-direction: column;
