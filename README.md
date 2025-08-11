@@ -582,6 +582,11 @@ h2 {
 
 ```
 ## OUTPUT
+![first commercial](https://github.com/user-attachments/assets/1c65db9b-0fe3-4715-8e75-af98f4cffe9c)
+
+<img width="1889" height="858" alt="image" src="https://github.com/user-attachments/assets/964010e0-5266-4204-b316-73ba78b30651" />
+<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/f0611d85-0678-4cb8-a3b9-a9abdbc97c0f" />
+<img width="1897" height="909" alt="image" src="https://github.com/user-attachments/assets/f646c746-8f79-4b9f-ba37-ee0f172f2b91" />
 
 
 ## RESULT
