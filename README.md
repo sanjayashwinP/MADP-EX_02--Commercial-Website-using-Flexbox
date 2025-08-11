@@ -274,10 +274,10 @@ style.css
 }
 
 :root {
-    --primary-color: #a5f3fc; /* A bright, vibrant cyan */
-    --secondary-color: #1e293b; /* Dark slate blue */
-    --text-color: #f1f5f9; /* Off-white */
-    --bg-color: #0f172a; /* Very dark blue */
+    --primary-color: #a5f3fc; 
+    --secondary-color: #1e293b; 
+    --text-color: #f1f5f9; 
+    --bg-color: #0f172a; 
 }
 
 body {
@@ -301,7 +301,7 @@ body {
     color: var(--secondary-color);
     text-decoration: none;
     font-weight: bold;
-    border-radius: 9999px; /* Fully rounded pill shape */
+    border-radius: 9999px; 
     border: none;
     cursor: pointer;
     font-size: 1rem;
@@ -309,7 +309,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #67e8f9; /* A slightly lighter cyan */
+    background-color: #67e8f9; 
 }
 
 h1, h2 {
@@ -330,15 +330,15 @@ h2 {
     margin-top: 2rem;
 }
 
-/* Header */
+
 .header {
     background-color: var(--secondary-color);
     padding: 1rem 2rem;
-    display: flex; /* Use Flexbox for layout */
+    display: flex; 
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid var(--primary-color);
-    flex-wrap: wrap; /* Allow wrapping on small screens */
+    flex-wrap: wrap; 
 }
 
 .logo {
@@ -352,7 +352,7 @@ h2 {
 }
 
 .nav {
-    display: flex; /* Use Flexbox for navigation links */
+    display: flex; 
     gap: 1.5rem;
     flex-wrap: wrap;
 }
@@ -371,9 +371,9 @@ h2 {
     border-bottom: 2px solid var(--primary-color);
 }
 
-/* Hero Section */
+
 .hero {
-    display: flex; /* Use Flexbox for hero section */
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -411,14 +411,14 @@ h2 {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
 }
 
-/* Products Section (for Home and Products pages) */
+
 .products-section {
     padding: 4rem 2rem;
     text-align: center;
 }
 
 .products-container {
-    display: flex; /* Use Flexbox for product cards */
+    display: flex; 
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
@@ -432,7 +432,7 @@ h2 {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     text-align: center;
     max-width: 300px;
-    display: flex; /* Flexbox inside the card for alignment */
+    display: flex; 
     flex-direction: column;
     align-items: center;
     gap: 0.75rem;
